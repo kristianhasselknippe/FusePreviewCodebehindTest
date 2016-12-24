@@ -1,0 +1,3 @@
+<Panel ux:Class="Foo" ux:AutoCtor="false">
+	<Text ux:Name="foo" Value="FOOOO" />
+</Panel>

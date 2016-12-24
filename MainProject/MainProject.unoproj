@@ -1,0 +1,13 @@
+{
+  "RootNamespace":"",
+  "Projects": [
+  	"../ProjWithCodeBehind/ProjWithCodeBehind.unoproj"
+  ],
+  "Packages": [
+  	"Fuse",
+  	"FuseJS"
+  ],
+  "Includes": [
+    "*"
+  ]
+}
